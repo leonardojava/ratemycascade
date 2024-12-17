@@ -1,0 +1,10 @@
+{
+    "rating": 4,
+    "comment": "cool",
+    "grade":"A",
+    "user": {"$oid": "671de7bcd29afbb77bc6c7a3"},
+    "teacher": {"$oid": "671ded5a4212cb432fdf68df"},
+    "course": "Math"
+}
+
+  
