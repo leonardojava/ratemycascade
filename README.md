@@ -17,3 +17,4 @@ then just run
 npm run dev
 ```
 in the terminal for it to start running on your port.
+The mail service I used was just gmail you need to get some special app password for it 
